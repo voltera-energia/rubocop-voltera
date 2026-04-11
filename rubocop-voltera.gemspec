@@ -20,5 +20,5 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'rubocop', '>= 1.72.1'
 
   spec.metadata['rubygems_mfa_required'] = 'true'
-  spec.metadata['lint_roller_plugin'] = 'RuboCop::Voltera::Plugin'
+  spec.metadata['default_lint_roller_plugin'] = 'RuboCop::Voltera::Plugin'
 end
