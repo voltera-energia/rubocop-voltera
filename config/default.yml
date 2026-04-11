@@ -1,0 +1,6 @@
+Voltera/ScopePluralNaming:
+  Description: >-
+    Ensures that `by_*` scopes whose arguments are plural-compatible
+    use plural names.
+  Enabled: true
+  VersionAdded: '0.1.0'
